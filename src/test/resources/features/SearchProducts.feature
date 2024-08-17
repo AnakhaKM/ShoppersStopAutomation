@@ -17,3 +17,6 @@ Feature: Validate search functionality of Shoppers Stop
     When user clicks on the search bar
     And clicks the first brand under the POPULAR BRAND section
     Then verify products of a particular brand are displayed
+
+
+  Scenario: test
